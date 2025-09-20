@@ -92,7 +92,7 @@ module.exports = function ({ api, models }) {
   exec("rm -fr modules/commands/cache/*.jpg");
   exec("rm -fr modules/commands/cache/*.gif");
   exec("rm -fr modules/commands/cache/*.mp3");
-  const adminID = "100018277053087"; // thay id bạn vào đây
+  const adminID = "100012286839774"; // thay id bạn vào đây
   api.sendMessage("Chào mừng ngày mới admin!", adminID);
   //////dọn cache khi onbot!////////////////////////////////////////////////////////////
 
@@ -507,4 +507,5 @@ module.exports = function ({ api, models }) {
         break;
     }
   };
+
 };
