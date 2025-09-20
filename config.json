@@ -1,5 +1,5 @@
 {
-    "language": "vi",
+    "language": "en",
     "DeveloperMode": false,
     "autoCreateDB": false,
     "MAINTENANCE_MODE": false,
@@ -7,22 +7,22 @@
         "status": true,
         "icon": "❤"
     },
-    "notiGroup": false,
+    "notiGroup": true,
     "NOTIFICATION": true,
-    "allowInbox": false,
+    "allowInbox": true,
     "commandDisabled": [],
     "eventDisabled": [],
     "autoClean": true,
     "ACCESSTOKEN": "",
-    "BOTNAME": "Tuấn Ank",
-    "AMDIN_NAME": "Hà Tuấn Ank",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/anhyeuemnhamlun",
-    "PREFIX": "/",
+    "BOTNAME": "Elaina",
+    "AMDIN_NAME": "l0yxf",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/l0yxf",
+    "PREFIX": "!",
     "ADMINBOT": [
-        "61555625227297"
+        "100012286839774"
     ],
     "NDH": [
-        "61555625227297"
+        "100012286839774"
     ],
     "DATABASE": {
         "sqlite": {
